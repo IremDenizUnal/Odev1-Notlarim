@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
               CircleAvatar(
                 backgroundImage: AssetImage(
                     'images/d58c92f7-d8bc-420b-b04d-c24ef43cf8de.jpg'),
-                radius: 70.0,
+                radius: 80.0,
               ),
               Text(
                 'İrem Deniz Ünal',
